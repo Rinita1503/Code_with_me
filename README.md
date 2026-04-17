@@ -9,4 +9,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rinita1503/Code_with_me/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Rinita1503/Code_with_me/tree/master/0182-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/Rinita1503/Code_with_me/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Rinita1503/Code_with_me/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
