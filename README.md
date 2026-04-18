@@ -8,6 +8,7 @@
 | [0177-nth-highest-salary](https://github.com/Rinita1503/Code_with_me/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rinita1503/Code_with_me/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Rinita1503/Code_with_me/tree/master/0182-duplicate-emails) |
+| [0595-big-countries](https://github.com/Rinita1503/Code_with_me/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Rinita1503/Code_with_me/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Rinita1503/Code_with_me/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Rinita1503/Code_with_me/tree/master/0626-exchange-seats) |
