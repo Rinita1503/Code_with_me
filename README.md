@@ -12,4 +12,5 @@
 | [0619-biggest-single-number](https://github.com/Rinita1503/Code_with_me/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Rinita1503/Code_with_me/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Rinita1503/Code_with_me/tree/master/0626-exchange-seats) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Rinita1503/Code_with_me/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
