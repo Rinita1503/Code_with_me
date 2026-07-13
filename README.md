@@ -62,4 +62,12 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rinita1503/Code_with_me/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Rinita1503/Code_with_me/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/Rinita1503/Code_with_me/tree/master/3570-find-books-with-no-available-copies) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Rinita1503/Code_with_me/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Rinita1503/Code_with_me/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
